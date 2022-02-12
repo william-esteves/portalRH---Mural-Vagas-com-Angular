@@ -1,0 +1,60 @@
+{
+	"vagas": [{
+			"id": 1,
+			"nome": "Desenvolvedor Front End",
+			"foto": "foto1.jpg",
+			"descricao": "Trabalhar com Angular",
+			"salario": 5000
+		},
+
+		{
+			"id": 2,
+			"nome": "Desenvolvedor Full Stack Senior",
+			"foto": "foto2.jpg",
+			"descricao": "Trabalhar com Java Spring",
+			"salario": 5000
+		},
+
+		{
+			"id": 3,
+			"nome": "Desenvolvedor Front End",
+			"foto": "foto3.jpg",
+			"descricao": "Trabalhar com React",
+			"salario": 5000
+		},
+
+    	{
+			"id": 3,
+			"nome": "Desenvolvedor Front End",
+			"foto": "foto3.jpg",
+			"descricao": "Trabalhar com React",
+			"salario": 5000
+		},
+
+    	{
+			"id": 3,
+			"nome": "Desenvolvedor Front End",
+			"foto": "foto3.jpg",
+			"descricao": "Trabalhar com React",
+			"salario": 5000
+		},
+
+    	{
+			"id": 3,
+			"nome": "Desenvolvedor Front End",
+			"foto": "foto3.jpg",
+			"descricao": "Trabalhar com React",
+			"salario": 5000
+		},
+
+    	{
+			"id": 3,
+			"nome": "Desenvolvedor Front End",
+			"foto": "foto3.jpg",
+			"descricao": "Trabalhar com React",
+			"salario": 5000
+		}
+	]
+
+
+}

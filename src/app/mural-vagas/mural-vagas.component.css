@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 .5rem;
+
+}
+
+.wrapper h2{
+  margin-top: 2rem;
+}
+
+.lista-vagas {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  height: 100%;
+}
+
+.card {
+  min-height: 500px;
+  min-width: 400px;
+  padding: .5rem;
+  margin: 1rem 0;
+  filter: drop-shadow( 6px 5px 6px #ebebeb);
+}
+
+.card-body:hover{
+  width: 600px;
+}
+
+.card-body {
+  margin-top: 1rem;
+  padding: .8rem;
+}
+
+.card-title {
+  color: #121212;
+}
+
+.card-title--vaga{
+  color: #aa00aa;
+}

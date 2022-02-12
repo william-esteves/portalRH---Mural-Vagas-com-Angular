@@ -1,0 +1,77 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolvedor Front End Jr",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com Angular",
+      "salario": 5000
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolvedor .NET Pleno",
+      "foto": "foto2.jpg",
+      "descricao": "SQL, .NET",
+      "salario": 8000
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolvedor .NET Pleno",
+      "foto": "foto2.jpg",
+      "descricao": "SQL, .NET",
+      "salario":  8000
+    },
+    {
+      "id": 4,
+      "nome": "Desenvolvedor Front End Jr",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com Angular",
+      "salario": 5000
+    },
+    {
+      "id": 5,
+      "nome": "Desenvolvedor Front End Jr",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com Angular",
+      "salario": 5000
+    },
+    {
+      "id": 6,
+      "nome": "Desenvolvedor Front End Jr",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com Angular",
+      "salario": 5000
+    },
+    {
+      "id": 7,
+      "nome": "Desenvolvedor Front End Jr",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com Angular",
+      "salario": 5000
+    },
+
+    {
+      "id": 8,
+      "nome": "Desenvolvedor Front End Jr",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com Angular",
+      "salario": 5000
+    },
+    {
+      "id": 9,
+      "nome": "UCUCUC",
+      "foto": "foto2.jpg",
+      "descricao": "deveveveveveve",
+      "salario": "60000"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+

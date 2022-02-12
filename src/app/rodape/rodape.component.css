@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #121212;
+  width: 100vw;
+  height: 10vh;
+
+  color: #fff;
+}
+
+.navbar{
+  background-color: #121212;
+}
+
+.navbar-brand{
+  color: #fff;
+
+}
+
+.creator{
+  width: 100vw;
+  background-color: #121212;
+  color: #fff;
+  text-align: center;
+
+}
+
+.creator p{
+  opacity: 40%;
+  font-size: 12px;
+}
