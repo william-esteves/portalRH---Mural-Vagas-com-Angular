@@ -9,10 +9,10 @@ Foi utilizado no projeto Angular, HTML, CSS, Bootstrap, JavaScript e TypeScript.
 
 <br>
 
-O projeto faz a leitura do arquivo __vagas-db.json__, onde está guardando as informações da vaga de emprego que será apresenta no mural.
+O projeto faz a leitura do arquivo __vagas-db.json__, onde está guardando as informações da vaga de emprego que será apresentada no mural.
 Pegue o arquivo aqui: <a href="https://github.com/william-esteves/portalRH---Mural-Vagas-com-Angular/blob/99ec5f379bb8fdc0abd9e8ea821c10326d7b1085/vagas-db.json">vagas-db.json</a>
                       
-*Você deve possuir o Angular, VSCode, os pacotes Node e Npm instalados e tambem o servidor Json.*
+*Você deve possuir o Angular, VSCode, os pacotes Node e Npm instalados e também o servidor Json.*
                          
 __Instalando servidor Json__ <br>
 `npm install -g json-server`
